@@ -12,4 +12,4 @@ money: 100.0
 bet: 10.0
 money: money: 90.0
 money: 100.0
-money: 100.0
+
