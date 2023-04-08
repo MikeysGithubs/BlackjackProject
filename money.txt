@@ -1,0 +1,23 @@
+
+
+money: 100.0
+bet: 90.0
+money: 10.0
+bet: 5.0
+money: 17.5
+bet: 7.0
+money: 10.5
+money: 100.0
+money: 100.0
+bet: 10.0
+money: money: 90.0
+money: 100.0
+money: 100.0
+bet: 5.0
+money: money: 95.0
+money: 100.0
+money: 91.0
+money: 100.0
+bet: 90.0
+money: money: 10.0
+money: 18.0
